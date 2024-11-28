@@ -6,7 +6,7 @@ El código rpl-attacks makefile al ejecutar dentro del entorno del Framework RPL
 - hello-flood-attack
 - version-number-attack
 
-Nota: En este proyecto se hizo implementación y uso de los ataques Blackhole y FloodAttack. Aún así se deja en consideración en el repositorio la carpeta version-numer-attack que contiene otro tipo de ataque el cual no se ocupó en el proyecto
+* Nota: En este proyecto se hizo implementación y uso de los ataques Blackhole y FloodAttack. Aún así se deja en consideración en el repositorio la carpeta version-numer-attack que contiene otro tipo de ataque el cual no se ocupó en el proyecto
 ------------------------------------------------------------------------------------
 Se debe considerar el uso de Redes de Sensores en el ambiente de contiki.ng, por lo que, para realizar estos ataques primero se deberá considerar la instalación previa del simulador.
 Los archivos que se deben usar para Blackhole attack en el entorno de contiki-ng son:
